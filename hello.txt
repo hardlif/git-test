@@ -4,3 +4,4 @@ hello,i am using git
 hello,i am usingit
 nihao
 hello,i am using git
+this is other branch's modify
