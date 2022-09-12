@@ -5,3 +5,4 @@ hello,i am usingit
 nihao
 hello,i am using git
 this is other branch's modify
+this is master branch 测试冲突
