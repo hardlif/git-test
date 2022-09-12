@@ -2,6 +2,8 @@ hello,i am using git
 hello,i am using git22222222222:
 hello,i am using git
 hello,i am usingit
+这里是分支添加的语句测试
 nihao
 hello,i am using git
 this is other branch's modify
+
